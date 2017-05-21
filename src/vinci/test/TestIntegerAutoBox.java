@@ -2,7 +2,7 @@ package vinci.test;
 
 import org.junit.Test;
 /**
- * jdk1.5Ö®ºóµÄ×Ô¶¯²ğÏä·âÏä
+ * jdk1.5ä¹‹åçš„è‡ªåŠ¨æ‹†ç®±å°ç®±
  * @author Vinci
  *
  */

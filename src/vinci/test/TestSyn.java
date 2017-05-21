@@ -1,8 +1,8 @@
 package vinci.test;
 /**
- * ²âÊÔmain·½·¨±»¼ÓÉÏsynchronizedºóÏß³ÌÖ´ĞĞË³Ğò 
+ * æµ‹è¯•mainæ–¹æ³•è¢«åŠ ä¸Šsynchronizedåçº¿ç¨‹æ‰§è¡Œé¡ºåº 
  * @author Vinci
- * ½á¹û£ºi am main
+ * ç»“æœï¼ši am main
  * 	   i am method1
  */
 public class TestSyn {
@@ -12,7 +12,7 @@ public class TestSyn {
 			@Override
 			public void run() {
 				// TODO Auto-generated method stub
-				//ÄäÃûÄÚ²¿Àà²»ÄÜÖ±½Ó·ÃÎÊÍâ²¿ÀàµÄ·Ç¾²Ì¬·½·¨
+				//ï¿½ï¿½ï¿½ï¿½ï¿½Ú²ï¿½ï¿½à²»ï¿½ï¿½Ö±ï¿½Ó·ï¿½ï¿½ï¿½ï¿½â²¿ï¿½ï¿½Ä·Ç¾ï¿½Ì¬ï¿½ï¿½ï¿½ï¿½
 				method1();
 			}
 		});
