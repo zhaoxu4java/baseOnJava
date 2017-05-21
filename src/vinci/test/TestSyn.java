@@ -12,7 +12,7 @@ public class TestSyn {
 			@Override
 			public void run() {
 				// TODO Auto-generated method stub
-				//�����ڲ��಻��ֱ�ӷ����ⲿ��ķǾ�̬����
+				//匿名内部类不能直接访问外部类的非静态方法
 				method1();
 			}
 		});

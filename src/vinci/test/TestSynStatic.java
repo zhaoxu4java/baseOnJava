@@ -14,7 +14,7 @@ public class TestSynStatic {
 			@Override
 			public void run() {
 				// TODO Auto-generated method stub
-				//�ڲ�������ⲿ�����ⲿ����������final
+				//内部类访问外部变量外部变量必须是final
 				MultiThread.printNum("a");
 			}
 		});
